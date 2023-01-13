@@ -1,0 +1,296 @@
+id_equipo	nombre_equipo	pais	confederacion
+Bayer Munich-Alemania	Bayer Munich	Alemania	UEFA
+Sport-Club Freiburg e.V.-Alemania	Sport-Club Freiburg e.V.	Alemania	UEFA
+RasenBallsport Leipzig e.V.-Alemania	RasenBallsport Leipzig e.V.	Alemania	UEFA
+Eintracht Frankfurt e.V.-Alemania	Eintracht Frankfurt e.V.	Alemania	UEFA
+Union Berlin-Alemania	Union Berlin	Alemania	UEFA
+Ballspielverein Borussia 09 e.V. Dortmun-Alemania	Ballspielverein Borussia 09 e.V. Dortmun	Alemania	UEFA
+Wolfburgo-Alemania	Wolfburgo	Alemania	UEFA
+Monchengladbach-Alemania	Monchengladbach	Alemania	UEFA
+Sportverein Werder Bremen von 1899 e. V.-Alemania	Sportverein Werder Bremen von 1899 e. V.	Alemania	UEFA
+Mainz 05-Alemania	Mainz 05	Alemania	UEFA
+TSG 1899 Hoffenheim-Alemania	TSG 1899 Hoffenheim	Alemania	UEFA
+Bayer 04 Leverkusen-Alemania	Bayer 04 Leverkusen	Alemania	UEFA
+Colonia-Alemania	Colonia	Alemania	UEFA
+Augsburg 1907-Alemania	Augsburg 1907	Alemania	UEFA
+ Berliner Sport-Club e.V-Alemania-Alemania	 Berliner Sport-Club e.V-Alemania	Alemania	UEFA
+Stuttgart 1893-Alemania	Stuttgart 1893	Alemania	UEFA
+VfL Bochum 1848-Alemania	VfL Bochum 1848	Alemania	UEFA
+Schalke 04 e.V-Alemania	Schalke 04 e.V	Alemania	UEFA
+Argentinos Juniors-Argentina	Argentinos Juniors	Argentina	CONMEBOL
+Arsenal (Sarandi) Futbol Club-Argentina	Arsenal (Sarandi) Futbol Club	Argentina	CONMEBOL
+Club Atl. Patronato de la Juv. Catolica-Argentina	Club Atl. Patronato de la Juv. Catolica	Argentina	CONMEBOL
+Club Atletico Aldosivi-Argentina	Club Atletico Aldosivi	Argentina	CONMEBOL
+Club Atletico Banfield-Argentina	Club Atletico Banfield	Argentina	CONMEBOL
+Club Atletico Barracas Central-Argentina	Club Atletico Barracas Central	Argentina	CONMEBOL
+Club Atletico Boca Juniors-Argentina	Club Atletico Boca Juniors	Argentina	CONMEBOL
+Club Atletico Central Cordoba de Santiag-Argentina	Club Atletico Central Cordoba de Santiag	Argentina	CONMEBOL
+Club Atletico Colon-Argentina	Club Atletico Colon	Argentina	CONMEBOL
+Club Atletico Huracon-Argentina	Club Atletico Huracon	Argentina	CONMEBOL
+Club Atletico Independiente-Argentina	Club Atletico Independiente	Argentina	CONMEBOL
+Club Atletico Lanus-Argentina	Club Atletico Lanus	Argentina	CONMEBOL
+Club Atletico Newell's Old Boys-Argentina	Club Atletico Newell's Old Boys	Argentina	CONMEBOL
+Club Atletico Platense-Argentina	Club Atletico Platense	Argentina	CONMEBOL
+Club Atletico River Plate-Argentina	Club Atletico River Plate	Argentina	CONMEBOL
+Club Atletico Rosario Central-Argentina	Club Atletico Rosario Central	Argentina	CONMEBOL
+Club Atletico San Lorenzo de Almagro-Argentina	Club Atletico San Lorenzo de Almagro	Argentina	CONMEBOL
+Club Atletico Sarmiento-Argentina	Club Atletico Sarmiento	Argentina	CONMEBOL
+Club Atletico Talleres (Cordoba)-Argentina	Club Atletico Talleres (Cordoba)	Argentina	CONMEBOL
+Club Atletico Tigre-Argentina	Club Atletico Tigre	Argentina	CONMEBOL
+Club Atletico Tucuman-Argentina	Club Atletico Tucuman	Argentina	CONMEBOL
+Club Atletico Union de Santa Fe-Argentina	Club Atletico Union de Santa Fe	Argentina	CONMEBOL
+Club Atletico Velez Sarsfield-Argentina	Club Atletico Velez Sarsfield	Argentina	CONMEBOL
+Club de Gimnasia y Esgrima La Plata-Argentina	Club de Gimnasia y Esgrima La Plata	Argentina	CONMEBOL
+Club Deportivo Godoy Cruz Antonio Tomba-Argentina	Club Deportivo Godoy Cruz Antonio Tomba	Argentina	CONMEBOL
+Club Estudiantes de la Plata-Argentina	Club Estudiantes de la Plata	Argentina	CONMEBOL
+Club Social y Dep. Defensa y Justicia-Argentina	Club Social y Dep. Defensa y Justicia	Argentina	CONMEBOL
+Racing Club-Argentina	Racing Club	Argentina	CONMEBOL
+Club Always Ready-Bolivia	Club Always Ready	Bolivia	CONMEBOL
+Club Atletico Nacional Potosi­-Bolivia	Club Atletico Nacional Potosi­	Bolivia	CONMEBOL
+Club Atletico Palmaflor-Bolivia	Club Atletico Palmaflor	Bolivia	CONMEBOL
+Club Aurora-Bolivia	Club Aurora	Bolivia	CONMEBOL
+Club Bolivar-Bolivia	Club Bolivar	Bolivia	CONMEBOL
+Club Deportivo Guabira-Bolivia	Club Deportivo Guabira	Bolivia	CONMEBOL
+Club Deportivo Jorge Wilstermann-Bolivia	Club Deportivo Jorge Wilstermann	Bolivia	CONMEBOL
+Club Deportivo Real Tomayapo-Bolivia	Club Deportivo Real Tomayapo	Bolivia	CONMEBOL
+Club Independiente Petrolero-Bolivia	Club Independiente Petrolero	Bolivia	CONMEBOL
+Club Oriente Petrolero-Bolivia	Club Oriente Petrolero	Bolivia	CONMEBOL
+Club The Strongest-Bolivia	Club The Strongest	Bolivia	CONMEBOL
+Club Universitario San Francisco Xavier-Bolivia	Club Universitario San Francisco Xavier	Bolivia	CONMEBOL
+Cultural y Dep. Blooming-Bolivia	Cultural y Dep. Blooming	Bolivia	CONMEBOL
+Real Santa Cruz-Bolivia	Real Santa Cruz	Bolivia	CONMEBOL
+Royal Pari FC-Bolivia	Royal Pari FC	Bolivia	CONMEBOL
+Universitario de Vinto-Bolivia	Universitario de Vinto	Bolivia	CONMEBOL
+America Futebol Clube-Brasil	America Futebol Clube	Brasil	CONMEBOL
+Atletico Clube Goianiense-Brasil	Atletico Clube Goianiense	Brasil	CONMEBOL
+Avai­ Futebol Clube-Brasil	Avai­ Futebol Clube	Brasil	CONMEBOL
+Botafogo de Futebol e Regatas-Brasil	Botafogo de Futebol e Regatas	Brasil	CONMEBOL
+Ceara Sporting Club-Brasil	Ceara Sporting Club	Brasil	CONMEBOL
+Club Athletico Paranaense-Brasil	Club Athletico Paranaense	Brasil	CONMEBOL
+Clube Atletico Mineiro-Brasil	Clube Atletico Mineiro	Brasil	CONMEBOL
+Clube de Regatas do Flamengo-Brasil	Clube de Regatas do Flamengo	Brasil	CONMEBOL
+Coritiba Foot Ball Club-Brasil	Coritiba Foot Ball Club	Brasil	CONMEBOL
+Cuiaba Esporte Clube-Brasil	Cuiaba Esporte Clube	Brasil	CONMEBOL
+Esporte Clube Juventude-Brasil	Esporte Clube Juventude	Brasil	CONMEBOL
+Fluminense Football Club-Brasil	Fluminense Football Club	Brasil	CONMEBOL
+Fortaleza Esporte Clube-Brasil	Fortaleza Esporte Clube	Brasil	CONMEBOL
+Goias Esporte Clube-Brasil	Goias Esporte Clube	Brasil	CONMEBOL
+Internacional Porto Alegre-Brasil	Internacional Porto Alegre	Brasil	CONMEBOL
+Red Bull Bragantino-Brasil	Red Bull Bragantino	Brasil	CONMEBOL
+Santos Futebol Clube-Brasil	Santos Futebol Clube	Brasil	CONMEBOL
+Sao Paulo Futebol Clube-Brasil	Sao Paulo Futebol Clube	Brasil	CONMEBOL
+Sociedade Esportiva Palmeiras-Brasil	Sociedade Esportiva Palmeiras	Brasil	CONMEBOL
+Sport Club Corinthians Paulista-Brasil	Sport Club Corinthians Paulista	Brasil	CONMEBOL
+Audax Italiano La Florida-Chile	Audax Italiano La Florida	Chile	CONMEBOL
+Club de Deportes Antofagasta-Chile	Club de Deportes Antofagasta	Chile	CONMEBOL
+Club de Deportes Cobresal-Chile	Club de Deportes Cobresal	Chile	CONMEBOL
+Club de Deportes La Serena-Chile	Club de Deportes La Serena	Chile	CONMEBOL
+Club de Deportes Provincial Curico Unido-Chile	Club de Deportes Provincial Curico Unido	Chile	CONMEBOL
+Club Deportivo Huachipato-Chile	Club Deportivo Huachipato	Chile	CONMEBOL
+Club Deportivo Nublense-Chile	Club Deportivo Nublense	Chile	CONMEBOL
+Club Deportivo O'Higgins-Chile	Club Deportivo O'Higgins	Chile	CONMEBOL
+Club Deportivo Palestino-Chile	Club Deportivo Palestino	Chile	CONMEBOL
+Club Deportivo Union La Calera-Chile	Club Deportivo Union La Calera	Chile	CONMEBOL
+Club Deportivo Universidad Catolica-Chile	Club Deportivo Universidad Catolica	Chile	CONMEBOL
+Club Social y Deportivo Colo-Colo-Chile	Club Social y Deportivo Colo-Colo	Chile	CONMEBOL
+Club Universidad de Chile-Chile	Club Universidad de Chile	Chile	CONMEBOL
+Coquimbo Unido S.A.D.P.-Chile	Coquimbo Unido S.A.D.P.	Chile	CONMEBOL
+Everton de Vina del Mar S.A.D.P.-Chile	Everton de Vina del Mar S.A.D.P.	Chile	CONMEBOL
+Union Espanola S.A.D.P.-Chile	Union Espanola S.A.D.P.	Chile	CONMEBOL
+Pereira-Colombia	Pereira	Colombia	CONMEBOL
+Aguilas Doradas Rionegro-Colombia	Aguilas Doradas Rionegro	Colombia	CONMEBOL
+Asociacion Deportivo Cali-Colombia	Asociacion Deportivo Cali	Colombia	CONMEBOL
+Asociacion Deportivo Pasto-Colombia	Asociacion Deportivo Pasto	Colombia	CONMEBOL
+Atletico Nacional S. A.-Colombia	Atletico Nacional S. A.	Colombia	CONMEBOL
+C. D. Patriotas Futbol Club-Colombia	C. D. Patriotas Futbol Club	Colombia	CONMEBOL
+Club Atletico Bucaramanga CD-Colombia	Club Atletico Bucaramanga CD	Colombia	CONMEBOL
+Club Deportes Tolima-Colombia	Club Deportes Tolima	Colombia	CONMEBOL
+Club Independiente Santa Fe S. A.-Colombia	Club Independiente Santa Fe S. A.	Colombia	CONMEBOL
+Club Junior FC-Colombia	Club Junior FC	Colombia	CONMEBOL
+Club Union Magdalena-Colombia	Club Union Magdalena	Colombia	CONMEBOL
+Corporacion Club Deportivo Tulua-Colombia	Corporacion Club Deportivo Tulua	Colombia	CONMEBOL
+Corporacion Deportiva Alianza Petrolera -Colombia	Corporacion Deportiva Alianza Petrolera 	Colombia	CONMEBOL
+Corporacion Deportiva Once Caldas-Colombia	Corporacion Deportiva Once Caldas	Colombia	CONMEBOL
+Deportivo Independiente Medellin-Colombia	Deportivo Independiente Medellin	Colombia	CONMEBOL
+Envigado Futbol Club-Colombia	Envigado Futbol Club	Colombia	CONMEBOL
+Equidad Club Deportivo-Colombia	Equidad Club Deportivo	Colombia	CONMEBOL
+Jaguares FC-Colombia	Jaguares FC	Colombia	CONMEBOL
+Millonarios Futbol Club-Colombia	Millonarios Futbol Club	Colombia	CONMEBOL
+SA Deportiva America-Colombia	SA Deportiva America	Colombia	CONMEBOL
+9 de Octubre-Ecuador	9 de Octubre	Ecuador	CONMEBOL
+Barcelona Sporting Club -Ecuador	Barcelona Sporting Club 	Ecuador	CONMEBOL
+Club Deportivo Cuenca-Ecuador	Club Deportivo Cuenca	Ecuador	CONMEBOL
+Club Deportivo de la Universidad Catolica-Ecuador	Club Deportivo de la Universidad Catolica	Ecuador	CONMEBOL
+Club Deportivo Delfin Sporting Club-Ecuador	Club Deportivo Delfin Sporting Club	Ecuador	CONMEBOL
+Club Deportivo Tecnico Universitario -Ecuador	Club Deportivo Tecnico Universitario 	Ecuador	CONMEBOL
+Club Especializado de Alto Rendimiento-Ecuador	Club Especializado de Alto Rendimiento	Ecuador	CONMEBOL
+Club Social y Deportivo Macara-Ecuador	Club Social y Deportivo Macara	Ecuador	CONMEBOL
+Club Sport Emelec-Ecuador	Club Sport Emelec	Ecuador	CONMEBOL
+Cumbaya FC-Ecuador	Cumbaya FC	Ecuador	CONMEBOL
+Gualaceo-Ecuador	Gualaceo	Ecuador	CONMEBOL
+Guayaquil City Futbol Club-Ecuador	Guayaquil City Futbol Club	Ecuador	CONMEBOL
+Liga Deportiva Universitaria de Quito-Ecuador	Liga Deportiva Universitaria de Quito	Ecuador	CONMEBOL
+Mushuc Runa Sporting Club-Ecuador	Mushuc Runa Sporting Club	Ecuador	CONMEBOL
+Orense SC-Ecuador	Orense SC	Ecuador	CONMEBOL
+Sociedad Deportivo Aucas-Ecuador	Sociedad Deportivo Aucas	Ecuador	CONMEBOL
+Athletic Club-Espania	Athletic Club	Espania	UEFA
+Atletico de Madrid-Espania	Atletico de Madrid	Espania	UEFA
+Barcelona-Espania	Barcelona	Espania	UEFA
+Cadiz-Espania	Cadiz	Espania	UEFA
+Elche-Espania	Elche	Espania	UEFA
+Getafe-Espania	Getafe	Espania	UEFA
+Girona-Espania	Girona	Espania	UEFA
+Osasuna-Espania	Osasuna	Espania	UEFA
+Rayo Vallecano de Madrid SAD-Espania	Rayo Vallecano de Madrid SAD	Espania	UEFA
+Real Betis-Espania	Real Betis	Espania	UEFA
+Real Club Celta de Vigo SAD-Espania	Real Club Celta de Vigo SAD	Espania	UEFA
+Real Club Deportivo Espanyol-Espania	Real Club Deportivo Espanyol	Espania	UEFA
+Real Club Deportivo Mallorca-Espania	Real Club Deportivo Mallorca	Espania	UEFA
+Real Madrid-Espania	Real Madrid	Espania	UEFA
+Real Sociedad-Espania	Real Sociedad	Espania	UEFA
+Real Valladolid-Espania	Real Valladolid	Espania	UEFA
+Sevilla-Espania	Sevilla	Espania	UEFA
+Union Deportiva Almeria-Espania	Union Deportiva Almeria	Espania	UEFA
+Valencia-Espania	Valencia	Espania	UEFA
+Villarreal Club de Futbol-Espania	Villarreal Club de Futbol	Espania	UEFA
+Angers Sporting Club de l'Ouest-Francia	Angers Sporting Club de l'Ouest	Francia	UEFA
+Assiciation de la Jeunesse-Francia	Assiciation de la Jeunesse	Francia	UEFA
+Association Sportive de Monaco Football -Francia	Association Sportive de Monaco Football 	Francia	UEFA
+Athletic Club Ajaccien-Francia	Athletic Club Ajaccien	Francia	UEFA
+Clermont Foot Auvergne-Francia	Clermont Foot Auvergne	Francia	UEFA
+Esperance Sportive Troyes Aube Champagne-Francia	Esperance Sportive Troyes Aube Champagne	Francia	UEFA
+Football Club de Nantes-Francia	Football Club de Nantes	Francia	UEFA
+Football Club Lorient-Bretagne Sud-Francia	Football Club Lorient-Bretagne Sud	Francia	UEFA
+Lille Olympique Sporting Club-Francia	Lille Olympique Sporting Club	Francia	UEFA
+Montpellier-Francia	Montpellier	Francia	UEFA
+Olympique de Marseille-Francia	Olympique de Marseille	Francia	UEFA
+Olympique Gymnaste Club de Nice-Francia	Olympique Gymnaste Club de Nice	Francia	UEFA
+Olympique Lyonnais-Francia	Olympique Lyonnais	Francia	UEFA
+Paris Saint-Germain Football Club-Francia	Paris Saint-Germain Football Club	Francia	UEFA
+Racing Club de Lens-Francia	Racing Club de Lens	Francia	UEFA
+Racing Club Strasbourg Alsace-Francia	Racing Club Strasbourg Alsace	Francia	UEFA
+Stade Brestois 29-Francia	Stade Brestois 29	Francia	UEFA
+Stade de Reims-Francia	Stade de Reims	Francia	UEFA
+Stade Rennais Football Club-Francia	Stade Rennais Football Club	Francia	UEFA
+Toulouse Football Club-Francia	Toulouse Football Club	Francia	UEFA
+Arsenal Football Club-Inglaterra	Arsenal Football Club	Inglaterra	UEFA
+Aston Villa Football Club-Inglaterra	Aston Villa Football Club	Inglaterra	UEFA
+Athletic Football Club Bournemouth -Inglaterra	Athletic Football Club Bournemouth 	Inglaterra	UEFA
+Brentford Football Club-Inglaterra	Brentford Football Club	Inglaterra	UEFA
+Brighton & Hove Albion Football Club-Inglaterra	Brighton & Hove Albion Football Club	Inglaterra	UEFA
+Chelsea Football Club-Inglaterra	Chelsea Football Club	Inglaterra	UEFA
+Crystal Palace Football Club-Inglaterra	Crystal Palace Football Club	Inglaterra	UEFA
+Everton Football Club-Inglaterra	Everton Football Club	Inglaterra	UEFA
+Fulham Football Club-Inglaterra	Fulham Football Club	Inglaterra	UEFA
+Leeds United Association Football Club-Inglaterra	Leeds United Association Football Club	Inglaterra	UEFA
+Leicester City Football Club-Inglaterra	Leicester City Football Club	Inglaterra	UEFA
+Liverpool Futbol Club -Inglaterra	Liverpool Futbol Club 	Inglaterra	UEFA
+Manchester City Football Club-Inglaterra	Manchester City Football Club	Inglaterra	UEFA
+Manchester United Football Club-Inglaterra	Manchester United Football Club	Inglaterra	UEFA
+Newcastle United Football Club-Inglaterra	Newcastle United Football Club	Inglaterra	UEFA
+Nottingham Forest-Inglaterra	Nottingham Forest	Inglaterra	UEFA
+Southampton Football Club-Inglaterra	Southampton Football Club	Inglaterra	UEFA
+Tottenham Hotspur Football Club-Inglaterra	Tottenham Hotspur Football Club	Inglaterra	UEFA
+West Ham United FC-Inglaterra	West Ham United FC	Inglaterra	UEFA
+Wolverhampton Wanderers Football Club-Inglaterra	Wolverhampton Wanderers Football Club	Inglaterra	UEFA
+AC Spezia Calcio-Italia	AC Spezia Calcio	Italia	UEFA
+Associazione Calcio Firenze Fiorentina-Italia	Associazione Calcio Firenze Fiorentina	Italia	UEFA
+Associazione Calcio Milan S.p.A-Italia	Associazione Calcio Milan S.p.A	Italia	UEFA
+Associazione Calcio Monza Brianza-Italia	Associazione Calcio Monza Brianza	Italia	UEFA
+Associazione Sportiva Roma-Italia	Associazione Sportiva Roma	Italia	UEFA
+Atalanta Bergamasca Calcio-Italia	Atalanta Bergamasca Calcio	Italia	UEFA
+Bologna Football Club 1909 S.p.A.-Italia	Bologna Football Club 1909 S.p.A.	Italia	UEFA
+Empoli Football Club-Italia	Empoli Football Club	Italia	UEFA
+Football Club Internazionale Milano S.p.-Italia	Football Club Internazionale Milano S.p.	Italia	UEFA
+Hellas Verona Football Club-Italia	Hellas Verona Football Club	Italia	UEFA
+Juventus Football Club S.p.A.-Italia	Juventus Football Club S.p.A.	Italia	UEFA
+Napoli-Italia	Napoli	Italia	UEFA
+Lazio-Italia	Lazio	Italia	UEFA
+Torino Football Club 1906-Italia	Torino Football Club 1906	Italia	UEFA
+Udinese Calcio SpA-Italia	Udinese Calcio SpA	Italia	UEFA
+Unione Calcio Sampdoria S.p.a.-Italia	Unione Calcio Sampdoria S.p.a.	Italia	UEFA
+Unione Sportiva Cremonese-Italia	Unione Sportiva Cremonese	Italia	UEFA
+Unione Sportiva Lecce-Italia	Unione Sportiva Lecce	Italia	UEFA
+Unione Sportiva Salernitana 1919-Italia	Unione Sportiva Salernitana 1919	Italia	UEFA
+Unione Sportiva Sassuolo Calcio-Italia	Unione Sportiva Sassuolo Calcio	Italia	UEFA
+12 de octubre Football Club-Paraguay	12 de octubre Football Club	Paraguay	CONMEBOL
+Club Cerro Porteno-Paraguay	Club Cerro Porteno	Paraguay	CONMEBOL
+Club Guarani-Paraguay	Club Guarani	Paraguay	CONMEBOL
+Club Libertad-Paraguay	Club Libertad	Paraguay	CONMEBOL
+Club Nacional-Paraguay	Club Nacional	Paraguay	CONMEBOL
+Club Olimpia-Paraguay	Club Olimpia	Paraguay	CONMEBOL
+Club Sol de America-Paraguay	Club Sol de America	Paraguay	CONMEBOL
+General Caballero-Paraguay	General Caballero	Paraguay	CONMEBOL
+Guarirena Futbol Club-Paraguay	Guarirena Futbol Club	Paraguay	CONMEBOL
+Resistencia Sport Club-Paraguay	Resistencia Sport Club	Paraguay	CONMEBOL
+Sportivo Ameliano-Paraguay	Sportivo Ameliano	Paraguay	CONMEBOL
+Tacuary Football Club-Paraguay	Tacuary Football Club	Paraguay	CONMEBOL
+Academia Deportiva Cantolao-Peru	Academia Deportiva Cantolao	Peru	CONMEBOL
+ADT de Tarma -Peru	ADT de Tarma 	Peru	CONMEBOL
+Atletico Grau-Peru	Atletico Grau	Peru	CONMEBOL
+Ayacucho Futbol Club-Peru	Ayacucho Futbol Club	Peru	CONMEBOL
+Club Alianza Lima-Peru	Club Alianza Lima	Peru	CONMEBOL
+Club Centro Deportivo Municipal-Peru	Club Centro Deportivo Municipal	Peru	CONMEBOL
+Club Cienciano del Cusco-Peru	Club Cienciano del Cusco	Peru	CONMEBOL
+Club Cultural y Deportivo Universidad Tecnica-Peru	Club Cultural y Deportivo Universidad Tecnica	Peru	CONMEBOL
+Club Deportivo Universidad de San Marti­n-Peru	Club Deportivo Universidad de San Marti­n	Peru	UEFA
+Club Social Deportivo Carlos A. Manucci-Peru	Club Social Deportivo Carlos A. Manucci	Peru	CONMEBOL
+Club Social y Deportivo Sport Huancayo-Peru	Club Social y Deportivo Sport Huancayo	Peru	CONMEBOL
+Club Sport Alianza Atletico Sullana-Peru	Club Sport Alianza Atletico Sullana	Peru	CONMEBOL
+Club Sport Boys Association-Peru	Club Sport Boys Association	Peru	CONMEBOL
+Club Sporting Cristal-Peru	Club Sporting Cristal	Peru	CONMEBOL
+Club Universitario de Deportes-Peru	Club Universitario de Deportes	Peru	CONMEBOL
+Escuela Municipal Deportivo Binacional-Peru	Escuela Municipal Deportivo Binacional	Peru	CONMEBOL
+FC Carlos Stein-Peru	FC Carlos Stein	Peru	CONMEBOL
+Football Club Melgar Arequipa-Peru	Football Club Melgar Arequipa	Peru	CONMEBOL
+Universidad Cesar Vallejo Club de Futbol-Peru	Universidad Cesar Vallejo Club de Futbol	Peru	CONMEBOL
+Boavista Futebol Clube-Portugal	Boavista Futebol Clube	Portugal	UEFA
+Casa Pia-Portugal	Casa Pia	Portugal	UEFA
+Clube Desportivo Santa Clara-Portugal	Clube Desportivo Santa Clara	Portugal	UEFA
+Famalicao-Portugal	Famalicao	Portugal	UEFA
+Futebol Clube de Vizela-Portugal	Futebol Clube de Vizela	Portugal	UEFA
+Futebol Clube do Porto-Portugal	Futebol Clube do Porto	Portugal	UEFA
+GD Estoril Praia-Portugal	GD Estoril Praia	Portugal	UEFA
+Gil Vicente Futebol Clube-Portugal	Gil Vicente Futebol Clube	Portugal	UEFA
+Grupo Desportivo de Chaves-Portugal	Grupo Desportivo de Chaves	Portugal	UEFA
+Maritimo-Portugal	Maritimo	Portugal	UEFA
+Pasos de Ferreira-Portugal	Pasos de Ferreira	Portugal	UEFA
+Platero-Portugal	Platero	Portugal	UEFA
+Portimonense SC-Portugal	Portimonense SC	Portugal	UEFA
+Rio Ave Futebol Clube-Portugal	Rio Ave Futebol Clube	Portugal	UEFA
+Sport Lisboa e Benfica-Portugal	Sport Lisboa e Benfica	Portugal	UEFA
+Sporting Clube Braga-Portugal	Sporting Clube Braga	Portugal	UEFA
+Sporting Clube de Portugal-Portugal	Sporting Clube de Portugal	Portugal	UEFA
+Vitoria Sport Clube-Portugal	Vitoria Sport Clube	Portugal	UEFA
+Albion Football Club-Uruguay	Albion Football Club	Uruguay	CONMEBOL
+Asociacion Civica Cultural y Social CLFC-Uruguay	Asociacion Civica Cultural y Social CLFC	Uruguay	CONMEBOL
+Centro Atletico Fenix-Uruguay	Centro Atletico Fenix	Uruguay	CONMEBOL
+Club Atletico Boston River-Uruguay	Club Atletico Boston River	Uruguay	CONMEBOL
+Club Atletico Penarol-Uruguay	Club Atletico Penarol	Uruguay	CONMEBOL
+Club Atletico Rentistas-Uruguay	Club Atletico Rentistas	Uruguay	CONMEBOL
+Club Atletico River Plate-Uruguay	Club Atletico River Plate	Uruguay	CONMEBOL
+Club Deportivo Maldonado-Uruguay	Club Deportivo Maldonado	Uruguay	CONMEBOL
+Club Nacional de Football-Uruguay	Club Nacional de Football	Uruguay	CONMEBOL
+Club Plaza Colonia de Deportes-Uruguay	Club Plaza Colonia de Deportes	Uruguay	CONMEBOL
+Club Sportivo Cerrito-Uruguay	Club Sportivo Cerrito	Uruguay	CONMEBOL
+Danubio Futbol Club-Uruguay	Danubio Futbol Club	Uruguay	CONMEBOL
+Defensor Sporting Club-Uruguay	Defensor Sporting Club	Uruguay	CONMEBOL
+Liverpool Futbol Club-Uruguay	Liverpool Futbol Club	Uruguay	CONMEBOL
+Montevideo City Torque-Uruguay	Montevideo City Torque	Uruguay	CONMEBOL
+Montevideo Wanderers Futbol Club-Uruguay	Montevideo Wanderers Futbol Club	Uruguay	CONMEBOL
+Academia Puerto Cabello-Venezuela	Academia Puerto Cabello	Venezuela	CONMEBOL
+Aragua Futbol Club-Venezuela	Aragua Futbol Club	Venezuela	CONMEBOL
+Carabobo Futbol Club-Venezuela	Carabobo Futbol Club	Venezuela	CONMEBOL
+Caracas Futbol Club-Venezuela	Caracas Futbol Club	Venezuela	CONMEBOL
+Club Deportivo Hermanos Colmenarez-Venezuela	Club Deportivo Hermanos Colmenarez	Venezuela	CONMEBOL
+Club Deportivo Lara-Venezuela	Club Deportivo Lara	Venezuela	CONMEBOL
+Club Deportivo Mineros de Guayana-Venezuela	Club Deportivo Mineros de Guayana	Venezuela	CONMEBOL
+Deportivo La Guaira-Venezuela	Deportivo La Guaira	Venezuela	CONMEBOL
+Deportivo Tachira Futbol Club-Venezuela	Deportivo Tachira Futbol Club	Venezuela	CONMEBOL
+Futbol Club Estudiantes de Merida-Venezuela	Futbol Club Estudiantes de Merida	Venezuela	CONMEBOL
+Metropolitanos Futbol Club-Venezuela	Metropolitanos Futbol Club	Venezuela	CONMEBOL
+Monagas Sport Club-Venezuela	Monagas Sport Club	Venezuela	CONMEBOL
+Portuguesa Futbol Club-Venezuela	Portuguesa Futbol Club	Venezuela	CONMEBOL
+Universidad Central de Venezuela -Venezuela	Universidad Central de Venezuela 	Venezuela	CONMEBOL
+Zamora Futbol Club-Venezuela	Zamora Futbol Club	Venezuela	CONMEBOL
+Zulia FC-Venezuela	Zulia FC	Venezuela	CONMEBOL
